@@ -6,8 +6,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Studies :** Mathematics BSc 📝: | Big Data and Data Science MSc 🧠
+-  **Studies :** Mathematics BSc 📝 | Big Data and Data Science MSc 🧠
 -  **Languages :** Python, R 🐍
 -  **Hobbies :** Sports and Reading 💪
--  **Organization :** Currently UIB's Strategic Planning Office 🏫: (But looking for a more challenging and innovative job) 👀
+-  **Organization :** UIB's Strategic Planning Office 🏫
 -  **Learning :** AWS | Flutter 📈
